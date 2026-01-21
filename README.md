@@ -1,4 +1,4 @@
-# Mall-Customer-Segmentation-Hierarchical-Clustering
+
 # Mall Customer Segmentation using Hierarchical Clustering
 
 ## 📌 Project Overview
